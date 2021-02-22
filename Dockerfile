@@ -1,3 +1,4 @@
+#version 1.0
 FROM amazonlinux
 
 RUN yum -y update
